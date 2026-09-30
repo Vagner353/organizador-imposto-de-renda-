@@ -1,0 +1,25 @@
+# 📑 Organizador de Declaração de Imposto de Renda em Excel
+
+Ferramenta desenvolvida no Microsoft Excel para auxiliar na reunião, organização e validação de informações essenciais para a declaração anual do Imposto de Renda.
+
+---
+
+## 🎯 Objetivos da Ferramenta
+* **Centralização de Dados:** Agregar informes de rendimentos, recibos de despesas médicas/educacionais e notas em um só lugar.
+* **Menus Interativos:** Navegação prática entre abas e seções do organizador.
+* **Validações Automáticas:** Tratamento de entradas de dados e formatações personalizadas para evitar erros de preenchimento.
+
+---
+
+## 🛠️ Recursos e Funcionalidades do Excel
+* **Formulário/Cadastro Titular:** Estrutura organizada para dados do contribuinte e dependentes.
+* **Tela de Informes e Notas:** Organização setorial de recibos e comprovantes.
+* **Formatação Condicional e Menus:** Interface intuitiva com botões/links de navegação rápida.
+* **Funções Personalizadas:** Fórmulas para automação e soma de deduções e rendimentos.
+
+---
+
+## 🚀 Como Utilizar
+1. Baixe o arquivo `.xlsx` do repositório.
+2. Navegue pelos menus para preencher as seções de rendimentos e despesas dedutíveis.
+3. Utilize os resumos automáticos para conferir os valores antes de preencher o programa oficial da Receita Federal.
